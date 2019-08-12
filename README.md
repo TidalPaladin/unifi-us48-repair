@@ -60,3 +60,10 @@ The switch uses two `BCM53344` series ARM processors. No data sheets
 for these processors could be found online. Some reverse engineering
 was possible by matching known pads of the memory module to pads of
 the CPU.
+
+<img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/board1.jpg" width=100%>
+<img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/board2.jpg" width=100%>
+
+<img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/cpu_pads.jpg" width=48%>    <img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/lifted_pads.jpg" width=48%>
+
+
