@@ -63,6 +63,10 @@ the CPU.
 
 <img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/board1.jpg" width=100%>
 <img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/board2.jpg" width=100%>
+<img
+src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/board8.jpg" width=100%>
+<img
+src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/board9.jpg" width=100%>
 
 <img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/cpu_pads.jpg" width=48%>    <img src="https://github.com/TidalPaladin/unifi-us48-repair/blob/master/lifted_pads.jpg" width=48%>
 
