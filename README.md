@@ -40,7 +40,7 @@ removing the CPU revealed that these connections were floating. As
 such, it is improbable that the pads were lifted during CPU removal
 unless their integrity was already compromised.
 
-# Repair
+## Repair
 Ultimately the switch was repaired using a replacement
 DDR3 memory module and CPU. Reballing the CPU using direct heat
 stencils presented problems with warping that ultimately proved too
