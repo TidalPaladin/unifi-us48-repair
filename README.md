@@ -44,12 +44,14 @@ unless their integrity was already compromised.
 Ultimately the switch was repaired using a replacement
 DDR3 memory module and CPU. Reballing the CPU using direct heat
 stencils presented problems with warping that ultimately proved too
-difficult to resolve.
+difficult to resolve. Purchasing preballed components resolved this
+issue and made for a quick repair. Reflow was done using a WEP 858D
+hot air station. CPU reflow was much more effective when using the
+large diameter square nozzle that came with the 858D.
 
-The lifted pads were repaired by scraping away solder mask to expose
-enough of the traces such that a solder ball could flow onto the
+The lifted pads were "repaired" prior to rework by scraping away
+solder mask to expose enough of the traces such that a solder ball could flow onto the
 exposed copper.
-
 
 ## Memory
 The switch uses a `K4B2G1646Q-BCK0` 2 Gbit DDR3 memory module, for which
